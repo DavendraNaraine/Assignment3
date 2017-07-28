@@ -6,3 +6,6 @@
 --b. generates a random set of winning numbers
 --c. states which numbers match the winning ones
 --d. informs whether you have won the lottery or not
+
+import Data.List
+import Data.Char

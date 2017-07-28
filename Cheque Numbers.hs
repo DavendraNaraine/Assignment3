@@ -4,3 +4,6 @@
 --hundred and fifty nine. Create an adequate set of functions that work together to accept a nonnegative
 --integer and print it in full. Be sure to define the limitations of your solution (as a
 --comment in your program).
+
+import Data.List
+import Data.Char
